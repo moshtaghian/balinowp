@@ -18,10 +18,7 @@ if (!defined('WPINC')) {
 define("HASH_ID_SALT", "@balino_hajmousa_taher#");
 define("HASH_ID_ALPHABET", "abcdefghijklmnopqrstuvwxyz1234567890");
 
-define("BALINO_SMS_URL", "http://www.smstarin.ir/webservice/smsService.php?wsdl");
-define("BALINO_SMS_USER", "taebi");
-define("BALINO_SMS_PASS", "7125344");
-define("BALINO_SMS_NUMBER", "10009140033114");
+
 
 function getHashID()
 {
